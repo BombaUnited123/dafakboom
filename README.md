@@ -27,3 +27,12 @@ local getenv = true GameUi > then()
     end
 end
 ```
+Also Filled The window setfenv.then()
+With Anything
+# Create Tabs
+```lua
+                  local Tab = create {
+                        TABNAME("Tab Name",IconsOptionalLink)
+                  }
+```
+Need Placed Icons Within Url!
